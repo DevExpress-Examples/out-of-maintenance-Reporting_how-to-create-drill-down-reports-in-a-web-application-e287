@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/WebApplication1/Default.aspx) (VB: [Default.aspx](./VB/WebApplication1/Default.aspx))
-* [Default.aspx.cs](./CS/WebApplication1/Default.aspx.cs) (VB: [Default.aspx](./VB/WebApplication1/Default.aspx))
+* [Default.aspx.cs](./CS/WebApplication1/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebApplication1/Default.aspx.vb))
 * **[XtraReport1.cs](./CS/WebApplication1/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/WebApplication1/XtraReport1.vb))**
 <!-- default file list end -->
 # How to create drill-down reports in a web application
