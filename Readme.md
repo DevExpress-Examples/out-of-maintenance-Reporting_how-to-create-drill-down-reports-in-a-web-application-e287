@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to create drill-down reports in a web application
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e287)**
+**[[Run Online]](https://codecentral.devexpress.com/e287/)**
 <!-- run online end -->
 
 
